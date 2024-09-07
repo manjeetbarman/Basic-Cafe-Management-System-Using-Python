@@ -7,6 +7,7 @@ menu = {
 }
 
 print("Welcome to my cafe by Manjeet Barman")
+
 print("Pizza: Rs149\nAllo Paratha: Rs70\nCoffee: Rs60\nMomo: Rs80\nVeg Biriyani: Rs110\n")
 
 order_total = 0
@@ -28,6 +29,7 @@ if another_order == "yes":
 
     else:
         print(f"Ordered Item {item_2} is not available right now! ")
+
 
 
 print(f"The total amount of items to pay is {order_total}")
