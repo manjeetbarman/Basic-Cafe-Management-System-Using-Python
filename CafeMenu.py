@@ -32,3 +32,4 @@ if another_order == "yes":
 
 print(f"The total amount of items to pay is {order_total}")
 
+
