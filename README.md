@@ -64,3 +64,4 @@ Feel free to fork this repository and contribute your own enhancements!  💡
 
 * Add functionalities like inventory tracking, user authentication, or a graphical user interface 📊.
 * Customize the script to suit your specific cafe's needs ☕.
+
