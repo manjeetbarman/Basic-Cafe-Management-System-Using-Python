@@ -5,7 +5,6 @@ menu = {
     'Momo': 80,
     'Veg Biriyani': 110,
 }
-
 print("Welcome to my cafe by Manjeet Barman")
 
 print("Pizza: Rs149\nAllo Paratha: Rs70\nCoffee: Rs60\nMomo: Rs80\nVeg Biriyani: Rs110\n")
